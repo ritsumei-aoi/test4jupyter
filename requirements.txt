@@ -1,2 +1,5 @@
 sympy
 plotly
+matplotlib
+japanize-matplotlib
+
