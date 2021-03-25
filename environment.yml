@@ -17,4 +17,3 @@ dependencies:
   - sympy
   - plotly
   - japanize-matplotlib
-
