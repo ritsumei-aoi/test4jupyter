@@ -16,4 +16,6 @@ dependencies:
   - scikit-learn
   - sympy
   - plotly
-  - japanize-matplotlib
+  - pip
+  - pip:
+    - japanize-matplotlib
